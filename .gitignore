@@ -1,0 +1,5 @@
+.venv/
+models/
+language_detector/
+.env
+whisper-small-uz-en-ru-lang-id/
